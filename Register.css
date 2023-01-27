@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 10px;
+    
+}
+body{
+    background: #a4d5c4;
+}
+.main-field{
+    display: flex;
+    border:ridge 4px;
+    border-radius: 10px ;
+    height: 120vh;
+    width: 60%;
+    background: #fff;
+    margin-left: 40vh;
+}
